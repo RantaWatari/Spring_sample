@@ -1,0 +1,7 @@
+com.example.demo.config.AppConfig=org.springframework.stereotype.Component
+com.example.demo.domain.repository.UserRepositoryImpl=org.springframework.stereotype.Component
+com.example.demo.domain.service.ConstructorInjectionUserServiceImpl=org.springframework.stereotype.Component
+com.example.demo.domain.service.FieldInjectionUserServiceImpl=org.springframework.stereotype.Component
+com.example.demo.domain.service.SetterInjectionUserServiceImpl=org.springframework.stereotype.Component
+com.example.demo.domain.service.password.BCryptPasswordEncoder=org.springframework.stereotype.Component
+com.example.demo.domain.service.password.Sha256PasswordEncoder=org.springframework.stereotype.Component
